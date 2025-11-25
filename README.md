@@ -69,7 +69,7 @@ POST	/api/borrow/{bookId}/student/{studentId}	Borrow a book
 PUT	/api/return/{bookId}/student/{studentId}	Return a book
 ⚙️ Steps to Run the Project
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/prashant1785/library-management-system.git
 
 2️⃣ Configure MySQL
 create database library_db;
